@@ -1,4 +1,5 @@
---On SAP VORA DB
+--On freshenergy 
+--SAP VORA DB
 --Some stats from METERS table
 
 --select count(*) from METERS
